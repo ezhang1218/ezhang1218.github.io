@@ -1,9 +1,3 @@
-{% comment %}
-Minimal renderer for publications:
-- Title (bold, linked if paperurl provided)
-- Citation (italic, on next line)
-{% endcomment %}
-
 <strong class="pub-title">
   {% if post.paperurl %}
     <a href="{{ post.paperurl }}">{{ post.title }}</a>
