@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
 <ol>
-{% for post in site.publications %}
-  <li>
-    {% include archive-single.html %}
-  </li>
+{% for post in pubs %}
+  <li>{% include archive-single-pub.html post=post %}</li>
 {% endfor %}
 </ol>
