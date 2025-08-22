@@ -27,7 +27,6 @@ Awards
 ======
 * T32 Training Grant in Environmental Health
 University of North Carolina, Chapel Hill, NC  
-*Aug 2021 - Aug 2025*
 
 * American National Chess Master
 
