@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: 
+title: "Publications"      # let the layout render the page heading once
 permalink: /publications/
 author_profile: true
+entries_layout: list       # optional: makes items look like a list
 ---
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% include base_path %}
+{% for post in site.publications %}
+  {% include archive-single.html %}
+{% endfor %}
