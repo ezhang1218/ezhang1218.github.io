@@ -1,22 +1,16 @@
 {% comment %}
 Minimal renderer for publications:
-- Title (bold, links to paper if provided)
-- Citation (italic)
-- Optional link (from paperurl or link)
+- Title (bold, linked if paperurl provided)
+- Citation (italic, on next line)
 {% endcomment %}
 
-{% assign thelink = post.paperurl | default: post.link %}
-
 <strong class="pub-title">
-  {% if thelink %}
-    <a href="{{ thelink }}">{{ post.title }}</a>
+  {% if post.paperurl %}
+    <a href="{{ post.paperurl }}">{{ post.title }}</a>
   {% else %}
     {{ post.title }}
   {% endif %}
 </strong>
 {% if post.citation %}
   <br><em>{{ post.citation }}</em>
-{% endif %}
-{% if thelink %}
-  <br><a href="{{ thelink }}">Link</a>
 {% endif %}
