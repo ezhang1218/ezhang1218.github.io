@@ -10,7 +10,7 @@ classes: cv              # add a custom class we can target
 
 Education
 ======
-* B.A. in Mathematics, Statistics; Minor in Computer Science
+* B.A. in Mathematics, Statistics; Minor in Computer Science <br>
 Cornell University, Ithaca, NY  
 *Aug 2017 - May 2021*
 
