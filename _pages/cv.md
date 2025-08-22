@@ -20,7 +20,7 @@ University of North Carolina, Chapel Hill, NC
 
 Experience
 ======
-* JPMorgan Chase - Quantitative Analytics Intern
+* JPMorgan Chase - Quantitative Analytics Intern <br>
 New York, NY  
 *Jun 2025 - Aug 2025*
 
