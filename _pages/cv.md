@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: "CV"
+layout: single           # use single instead of archive
+title: "CV"              # keep for SEO/metadata
 permalink: /cv/
 author_profile: true
-show_title: false
+classes: cv              # add a custom class we can target
 ---
+
 
 
 Education
@@ -25,8 +26,8 @@ New York, NY
 
 Awards
 ======
-* T32 Training Grant in Environmental Health
-University of North Carolina, Chapel Hill, NC  
+* T32 Training Grant in Environmental Health <br>
+  University of North Carolina, Chapel Hill, NC
 
 * American National Chess Master
 
