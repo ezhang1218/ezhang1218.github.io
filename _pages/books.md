@@ -11,7 +11,7 @@ Here are some of my favorite reads :)
 - *Grit: The Power of Passion and Perseverance* — Angela Duckworth
 - *Outliers* - Malcolm Gladwell
 - *The Tyranny of Merit* - Michael Sandel
-- *Peddling Prospertiy* - Paul Krugman
+- *Peddling Prosperity* - Paul Krugman
 - *The Silent Patient* - Alex Michaelides
 - *The Devotion of Suspect X* - Keigo Higashino
 - *Atomic Habits* - James Clear
