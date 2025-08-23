@@ -1,12 +1,12 @@
 ---
-layout: single           # use single instead of archive
-title: "CV"              # keep for SEO/metadata
+layout: single
+title: "CV"
 permalink: /cv/
 author_profile: true
-classes: cv              # add a custom class we can target
+classes: cv
 ---
 
-
+[Download CV (PDF)](/files/CV.pdf){: .btn .btn--primary}
 
 Education
 ======
@@ -30,8 +30,3 @@ Awards
   University of North Carolina, Chapel Hill, NC
 
 * American National Chess Master
-
-
-
-
-
