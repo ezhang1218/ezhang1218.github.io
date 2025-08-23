@@ -6,7 +6,7 @@ author_profile: true
 classes: cv
 ---
 
-[Download CV (PDF)](/files/CV.pdf){: .btn .btn--primary}
+[Download CV (PDF)](/files/Zhang_Eric_CV.pdf)
 
 Education
 ======
