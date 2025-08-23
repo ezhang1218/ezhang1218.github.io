@@ -5,7 +5,7 @@ permalink: /books/
 author_profile: true
 ---
 
-Here are some of my favorite reads.
+Here are some of my favorite reads :) 
 
 - *Outlive: The Science and Art of Longevity* — Peter Attia  
 - *Grit: The Power of Passion and Perseverance* — Angela Duckworth
