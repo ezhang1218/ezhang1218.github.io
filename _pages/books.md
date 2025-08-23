@@ -9,7 +9,7 @@ Here are some of my favorite reads :)
 
 - *Outlive: The Science and Art of Longevity* — Peter Attia  
 - *Grit: The Power of Passion and Perseverance* — Angela Duckworth
-- *Outliers* - Malcome Gladwell
+- *Outliers* - Malcolm Gladwell
 - *The Tyranny of Merit* - Michael Sandel
 - *Peddling Prospertiy* - Paul Krugman
 - *The Silent Patient* - Alex Michaelides
