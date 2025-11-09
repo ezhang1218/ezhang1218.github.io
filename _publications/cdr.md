@@ -1,7 +1,7 @@
 ---
 title: "Contrastive Dimension Reduction: A Systematic Review"
-collection: preprints
-permalink: /preprints/1
+collection: publications
+permalink: /publication/3
 date: 2025-01-01
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2510.11847'
