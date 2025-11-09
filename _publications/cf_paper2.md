@@ -1,7 +1,7 @@
 ---
 title: "Association between inhaled antibiotic use and treatment-emergent organisms among Canadian people with cystic fibrosis."
 collection: publications
-permalink: /publication/2
+permalink: /publication/5
 date: 2025-01-01
 venue: 'Journal of Cystic Fibrosis'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1569199325014626'
