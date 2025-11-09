@@ -1,7 +1,7 @@
 ---
 title: "Contrastive CUR: Interpretable Joint Feature and Sample Selection for Case-Control Studies"
 collection: preprints
-permalink: /preprints/2
+permalink: /preprints/2/
 date: 2025-01-01
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2508.11557'
