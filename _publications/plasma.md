@@ -1,5 +1,5 @@
 ---
-title: "Plasma lipidomic profiles and risk of diabetes: 2 prospective cohorts of HIV-infected and HIV-uninfected individuals."
+title: "Plasma lipidomic profiles and risk of diabetes: 2 prospective cohorts of HIV-infected and HIV-uninfected individuals"
 collection: publications
 permalink: /publication/6
 date: 2021-01-01
