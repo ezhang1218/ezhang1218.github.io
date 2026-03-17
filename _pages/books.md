@@ -13,10 +13,9 @@ Here are some of my favorite reads :)
 - *Outliers* - Malcolm Gladwell
 - *The Tyranny of Merit* - Michael Sandel
 - *The Silent Patient* - Alex Michaelides
-- *The Devotion of Suspect X* - Keigo Higashino
+- *The Last Letter* - Rebecca Yarros
 - *Educated* - Tara Westover
 - *Daring Greatly* - Brené Brown
-- *How to Win Friends and Influence People* - Dale Carnegie
 - *Attached* - Amir Levine and Rachel Heller
 - *The Defining Decade* - Meg Jay
 - *It Begins With You* - Jillian Turecki
