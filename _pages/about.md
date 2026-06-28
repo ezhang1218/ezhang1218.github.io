@@ -14,4 +14,4 @@ I received my Ph.D. in Biostatistics at the University of North Carolina at Chap
 
 My research involved developing statistical and machine learning methods to analyze complex biomedical data. I am also interested in causal inference and post-training LLMs. In my free time, I enjoy running, basketball, music, and used to play chess competitively!
 
-Feel free to reach out to me at eyzhang@unc.edu!
+Feel free to reach out to me at ezhang4665 [at] gmail [dot] com!
